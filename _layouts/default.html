@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} - {{site.title}}</title>
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        {% if site.logo %}
+          <a href="{{site.baseurl}}/index"><img src="../assets/images/ssdbmlogo-2024.png" alt="Logo" width="180" height="149" /></a>
+        {% endif %}
+
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+
+        <h3>{{ site.description | default: site.github.project_tagline }}</h3>
+        <h4>July 10–12, 2024 &mdash; Rennes France</h4>
+
+        <!-- {% for page in site.pages %}
+            <a href={{ page.filename }}>{{ page.title }}</a>
+        {% endfor %} -->
+
+        <nav>
+            <ul class="nav">
+                <li><a href="{{site.baseurl}}/index">Home</a></li>
+                <ul class="nav">
+                  <li><a href="{{site.baseurl}}/committee">Program Committee</a></li>
+                </ul>
+
+                <li>Contribute</li>
+                <ul class="nav">
+                  <li><a href="{{site.baseurl}}/callpaper">Call for Papers</a></li>
+                 <!-- <li><a href="{{site.baseurl}}/calls">Call for Short Papers</a></li>
+                  <li><a href="{{site.baseurl}}/calls">Call for Demo Papers </a></li>
+                <!--   <li><a href="{{site.baseurl}}/calls">Call for Posters</a></li> -->
+                <!--  <li><a href="{{site.baseurl}}/sponsors">Call for Sponsors</a></li> -->
+                </ul>
+                 <li><a href="{{site.baseurl}}/program">Program</a></li>
+                <ul class="nav">
+                  <li><a href="{{site.baseurl}}/program">Overview</a></li>
+                <!--  <li><a href="{{site.baseurl}}/keynotes">Keynotes</a></li>
+                  <li><a href="{{site.baseurl}}/events">Social Events</a></li>
+		              <li><a href="{{site.baseurl}}/accepted-papers">Accepted Papers</a></li>
+		              <li><a href="{{site.baseurl}}/awards">Awards</a></li> -->
+                </ul>
+                <li>Attend</li>
+                <ul class="nav">
+ <!--                 <li><a href="{{site.baseurl}}/authors">Instructions for Authors</a></li>
+                  <li><a href="{{site.baseurl}}/videos">Video Submission Instructions</a></li>
+                  <li><a href="{{site.baseurl}}/camera_ready">Camera Ready Instructions</a></li>
+                  <li><a href="{{site.baseurl}}/register">Registration</a></li> -->
+                <!--   <li><a href="{{site.baseurl}}/visa">Travel & Visa Information</a></li>-->
+                  <li><a href="{{site.baseurl}}/venue">Conference Venue</a></li>
+                 <!--  <li><a href="{{site.baseurl}}/accommodation">Accommodation</a></li>-->
+                </ul>
+            </ul>
+        </nav>
+
+
+        <h3 class="nav">Important Dates</h3>
+            <p><b>Paper submission deadline (Main Track)</b>: April 22, 2024</p>
+            <p><b>Paper submission deadline (Short papers)</b>: May 6, 2024</p>
+            <p><b>Paper submission deadline (Demo papers)</b>: May 6, 2024</p>
+            <p><b>Notification for acceptance (Papers)</b>: June 3, 2024</p>
+            <p><b>Notification for acceptance (Short papers)</b>: June 10, 2024</p>
+            <p><b>Notification for acceptance (Demo papers)</b>: June 10, 2024</p>
+            <!--<p><b>Camera-Ready Deadline</b>: June 24, 2024</p>-->
+            <p><b>Author Registration Deadline</b>: June 24, 2024</p>
+
+            <h3 class="nav">Supporters</h3>
+            <p><a href="https://www.inria.fr/fr"><img src="../assets/images/inr_logo_rouge.png" alt="Inria" width="150" height="48" border="0"></a></p>
+            <p><b><img src="../assets/images/image.png" width="150" height="32" longdesc="https://www.irisa.fr/en"></b></p>
+            <p><img src="../assets/images/UNIRENNES_LOGOnoir_0.png" width="150" height="45" longdesc="https://www.univ-rennes.fr"></p>
+            <p><img src="../assets/images/images.png" width="150" height="150" longdesc="https://www.cnrs.fr/fr"></p>
+            <p><img src="../assets/images/RENNES_Metropole_noir.png" width="150" height="60" longdesc="https://metropole.rennes.fr"></p>
+            <p><b><img src="../assets/images/logo-region-bretagne.png" width="150" height="134" longdesc="https://www.bretagne.bzh"></b></p>
+            <footer>
+          <p><br/>
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
+      </header>
+
+
+      <section>
+
+      {{ content }}
+
+      </section>
+
+  </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
