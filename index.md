@@ -49,6 +49,10 @@ Alejandro Bugacov, University of Southern California<br>
 **Local Event Coordinators**<br>
 Shawn Sanders and Jessica Madrigal, University of Southern California<br>
 -->
+
+**Local Event Coordinator**<br>
+Edith Blin, Inria, France<br>
+
 **Web Chairs**<br>
 Marc Tranzer, Inria, France<br>
 Mohammad Rizk, Inria, France<br>
