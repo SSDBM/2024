@@ -13,22 +13,22 @@ We offer the following sponsorship packages:
 
 ### Bronze Sponsor (EUR 500)
 
-- Logo displayed on conference web and the conference program
+- Logo displayed on the conference website and the conference program
 
 ### Silver Sponsor (EUR 1,000)
 
-- Logo displayed on conference web and the conference program
+- Logo displayed on the conference website and the conference program
 - Free registration for 1 participant
 
 ### Gold Sponsor (EUR 2,000)
 
-- Logo displayed on conference web and the conference program
+- Logo displayed on the conference website and the conference program
 - Flyers/giveaways in handout bags
 - Free registration for 2 participants
 
 ### Platinum Sponsor (EUR 4,000+)
 
-- Logo displayed on conference web and the conference printed (online) program
+- Logo displayed on the conference website and the conference printed (online) program
 - Flyers/giveaways in handout bags
 - Free registration for 4 participants
 
