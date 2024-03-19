@@ -28,7 +28,7 @@ We offer the following sponsorship packages:
 
 ### Platinum Sponsor (EUR 4,000+)
 
-- Logo displayed on the conference website and the conference printed (online) program
+- Logo displayed on the conference website and the conference program
 - Flyers/giveaways in handout bags
 - Free registration for 4 participants
 
