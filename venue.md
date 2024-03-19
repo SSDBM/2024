@@ -15,3 +15,5 @@ The conference will take place in the Inria Convention Center (in the Beaulieu C
 You can reach the Inria Convention Center with the metro line B (Beaulieu Unviersité station +15 mins walk to reach the convention center) or with city bus lines C4 or C6 (Preales or Tournebride stops, +5 mins walk). Follow this [link](https://www.inria.fr/en/how-reach-inria-centre-rennes-university) for more information on how to reach the Inria centre at Rennes University. 
 
 ![How to reach Inria Convention Center](./assets/images/map_huad9c8f9d9ba3b3bd2615010f86f92a25_951959_1200x1200_fit_q75_h2_lanczos_3.webp)
+
+![map of the campus](./assets/images/InriaIRISA.png)
