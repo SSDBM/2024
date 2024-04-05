@@ -36,10 +36,12 @@ Shadi Ibrahim, Inria, France<br>
 **General Vice Chair**  
 Suren Byna, The Ohio State University, USA<br>
 
-<!--
-**Program Chair**<br>
-Robert Schuler, University of Southern California<br>
 
+**Program Chairs**<br>
+Jay Lofstead, Sandia National Laboratories (SNL), USA<br>
+Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong
+
+<!--
 **Short Paper Chair**<br>
 Kyle Chard, University of Chicago and Argonne National Lab<br>
 
