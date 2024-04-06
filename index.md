@@ -42,12 +42,12 @@ Tristan Allard, University of Rennes, France<br>
 Jay Lofstead, Sandia National Laboratories (SNL), USA<br>
 Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
 
+**Proceedings Chair**<br>
+Jean Luca Bez, Lawrence Berkeley National Laboratory, USA<br>
+
 <!--
 **Short Paper Chair**<br>
 Kyle Chard, University of Chicago and Argonne National Lab<br>
-
-**Proceedings Chair**<br>
-Alejandro Bugacov, University of Southern California<br>
 
 **Local Event Coordinators**<br>
 Shawn Sanders and Jessica Madrigal, University of Southern California<br>
