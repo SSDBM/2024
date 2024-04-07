@@ -6,8 +6,10 @@ layout: default
 # Welcome to SSDBM 2024
 The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 36th SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
 
-SSDBM 2024 will be hosted by the [Inria centre at Rennes University](./venue.md) and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas.
-The conference will be held  in Rennes, France.
+SSDBM 2024 will be hosted by the [Inria centre at Rennes University](./venue.md) and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management, and high-performance data analysis tools and techniques for distributed datasets. The conference will be held  in Rennes, France.
+
+<!--This year, the focus is on high-performance data analysis tools and techniques for geo-distributed data sets and on Data system support for AI/Machine Learning. Topics from other areas of scalable data management, databases, and data systems are welcome, as long as the submitted work is original, unpublished, and not being considered for publication anywhere else.-->
+
 
 
 ## Announcements
