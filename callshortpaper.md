@@ -20,7 +20,7 @@ All authors should respect the [ACM Policy on Authorship](https://www.acm.org/pu
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
 * Submission deadline: May 6 at 23:59 AoE (Anywhere on Earth)
-* Submission site: [EasyChair] (https://easychair.org/conferences/?conf=ssdbm2024) 
+* Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2024) 
 
 ## Short Papers 
 
