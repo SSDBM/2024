@@ -5,6 +5,43 @@ layout: default
 
 # Organisation Committee
 
+**General Chair**  
+Shadi Ibrahim, Inria, France<br>
+
+**General Vice Chair**  
+Suren Byna, The Ohio State University, USA<br>
+
+
+**Program Chairs**<br>
+Tristan Allard, University of Rennes, France<br>
+Jay Lofstead, Sandia National Laboratories (SNL), USA<br>
+Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
+
+**Proceedings Chair**<br>
+Jean Luca Bez, Lawrence Berkeley National Laboratory, USA<br>
+
+<!--
+**Short Paper Chair**<br>
+Kyle Chard, University of Chicago and Argonne National Lab<br>
+
+**Local Event Coordinators**<br>
+Shawn Sanders and Jessica Madrigal, University of Southern California<br>
+-->
+
+**Local Event Coordinator**<br>
+Edith Blin, Inria, France<br>
+
+**Web Chairs**<br>
+Marc Tranzer, Inria, France<br>
+Mohammad Rizk, Inria, France<br>
+
+**Steering Committee**<br>
+Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br>
+John Wu, Lawrence Berkeley National Lab (Chair)<br>
+Michael Böehlen, University of Zurich<br>
+Tanu Malik, DePaul University<br>
+Xingquan (Hill) Zhu, Florida Atlantic University<br>
+Yongluan Zhou, University of Copenhagen<br>
 
 <!--
 **Peter Baumann**, Jacobs University Bremen<br>
