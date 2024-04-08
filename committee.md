@@ -3,7 +3,9 @@ title: Committee
 layout: default
 ---
 
-# Research Program Committee
+# Organisation Committee
+
+
 <!--
 **Peter Baumann**, Jacobs University Bremen<br>
 **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
