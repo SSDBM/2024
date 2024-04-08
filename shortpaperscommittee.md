@@ -3,7 +3,7 @@ title: Committee
 layout: default
 ---
 
-# Full papers Program Committee
+# Short papers Program Committee
 <!--
 **Peter Baumann**, Jacobs University Bremen<br>
 **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
