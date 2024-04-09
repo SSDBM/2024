@@ -4,6 +4,13 @@ layout: default
 ---
 
 # Short papers Program Committee
+
+**Chairs**<br>
+Tassadit Bouadi, University of Rennes, France<br>
+Jalil	Boukhobza, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France<br>
+
+**Program Committee**<br>
+
 <!--
 **Peter Baumann**, Jacobs University Bremen<br>
 **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
