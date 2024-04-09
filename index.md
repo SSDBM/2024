@@ -48,6 +48,11 @@ Tristan Allard, University of Rennes, France<br>
 Jay Lofstead, Sandia National Laboratories (SNL), USA<br>
 Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
 
+**Short Paper Chairs**<br>
+Tassadit Bouadi, University of Rennes, France<br>
+Jalil	Boukhobza, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France<br>
+
+
 **Proceedings Chair**<br>
 Jean Luca Bez, Lawrence Berkeley National Laboratory, USA<br>
 
