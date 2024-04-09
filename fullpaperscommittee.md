@@ -4,6 +4,14 @@ layout: default
 ---
 
 # Full papers Program Committee
+
+**Chairs**<br>
+Tristan Allard, University of Rennes, France<br>
+Jay Lofstead, Sandia National Laboratories (SNL), USA<br>
+Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
+
+**Program Committee**<br>
+
 <!--
 **Peter Baumann**, Jacobs University Bremen<br>
 **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
