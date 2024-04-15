@@ -3,14 +3,13 @@ title: Committee
 layout: default
 ---
 
+# Demo papers Program Committee
+
 **Chairs**<br>
 Cédric Tedeschi, University of Rennes, France<br>
 
 **Program Committee**<br>
 
-
-
-# Demo papers Program Committee
 <!--
 **Peter Baumann**, Jacobs University Bremen<br>
 **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
