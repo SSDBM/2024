@@ -13,10 +13,10 @@ SSDBM 2024 will be hosted by the Inria centre at Rennes University and will cont
 -->
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished manuscripts. <!--We solicit research papers (long and short), and demo papers. -->
-All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template). 
+Authors are invited to submit original, unpublished manuscripts. <!--We solicit research papers (long and short), and demo papers.
+All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template).  -->
 SSDBM 2024 is single-blind reviewed; authors must include their names and affiliations on the first page. 
-All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy).
+<!-- All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy). -->
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
 * Submission deadline: April 22 at 23:59 AoE (Anywhere on Earth)
