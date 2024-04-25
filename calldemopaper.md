@@ -16,7 +16,7 @@ The Proceedings of SSDBM 2024 will be published by [Association of Computing Mac
 
 Authors are invited to submit original, unpublished manuscripts. All submissions should be formatted using the ACM format available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) by selecting the generic “sigconf” sample. For submissions prepared in LaTex,  authors are recommended to use \documentclass[sigconf,review]{acmart} conﬁguration. 
 SSDBM 2024 is single-blind reviewed; authors must include their names and affiliations on the first page. 
-<!--All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy).-->
+All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship). 
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
 * Submission deadline: May 6 at 23:59 AoE (Anywhere on Earth)
