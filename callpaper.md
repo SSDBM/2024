@@ -9,12 +9,12 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2024 will be hosted by the Inria centre at Rennes University and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management, and high-performance data analysis tools and techniques for distributed datasets.
 
-<!--The Proceedings of SSDBM 2023 will be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list). The best papers will be considered for publication in the [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
+The Proceedings of SSDBM 2024 will be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list). 
+<!-- The best papers will be considered for publication in the [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
 -->
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished manuscripts. <!--We solicit research papers (long and short), and demo papers.
-All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template).  -->
+Authors are invited to submit original, unpublished manuscripts. All submissions should be formatted using the ACM format available at https://www.acm.org/publications/proceedings-template by selecting the generic “sigconf” sample. For submissions prepared in LaTex,  authors are recommended to use \documentclass[sigconf,review]{acmart} conﬁguration. 
 SSDBM 2024 is single-blind reviewed; authors must include their names and affiliations on the first page. 
 <!-- All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy). -->
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
