@@ -27,12 +27,12 @@ SSDBM 2024 will be hosted by the [Inria centre at Rennes University](./venue.md)
 - <s>Submission deadline has been extended to April 30, 2023.</s>
 - <s>Call for Papers is announced! Please see this page (calls) for full details.</s>
 - <s>Please submit your paper here (https://easychair.org/conferences/?conf=ssdbm2023).</s>
-
+-->
 ## News and Highlights
-
+-  All papers (Full, Short, and Demo) will appear in the proceedings to be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list).
+<!--
 - The conference program will consist of 3 [keynotes](./keynotes.md), 16 full paper presentations, 8 short paper presentations, 9 posters, and 1 demonstration (see [accepted papers](./accepted-papers.md)).
 - The best papers will be considered for publication in [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619).
-- Regular, short, poster and demo papers will be accepted in the research track. All papers will appear in the proceedings to be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list).
 -->
 
 ## Conference Officers
