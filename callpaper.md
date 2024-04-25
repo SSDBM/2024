@@ -32,8 +32,8 @@ ACM has introduced a new open access publishing model for the International Conf
 
 Further information may be found on the ACM website, as follows:
 
-- Full details of the new ICPS publishing model: https://www.acm.org/publications/icps/faq
-- Full details of the ACM Open program: https://www.acm.org/publications/openaccess
+- [Full details of the new ICPS publishing model:](https://www.acm.org/publications/icps/faq)
+- [Full details of the ACM Open program:](https://www.acm.org/publications/openaccess)
 
 Please direct all questions about the new model to icps-info@acm.org.
 
