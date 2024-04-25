@@ -24,7 +24,7 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 ## Research Papers 
 
-Research papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters and given a short presentation slot in the conference. All papers, regardless of size, will be given an entry in the conference proceedings.
+Research papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters and given a short presentation slot in the conference. All papers, regardless of size, will be be published in the ACM Digital Library.
 
 ## Important note to authors about the new ACM open access publishing model
 
@@ -32,8 +32,8 @@ ACM has introduced a new open access publishing model for the International Conf
 
 Further information may be found on the ACM website, as follows:
 
-- [Full details of the new ICPS publishing model:](https://www.acm.org/publications/icps/faq)
-- [Full details of the ACM Open program:](https://www.acm.org/publications/openaccess)
+- [Full details of the new ICPS publishing model.](https://www.acm.org/publications/icps/faq)
+- [Full details of the ACM Open program.](https://www.acm.org/publications/openaccess)
 
 Please direct all questions about the new model to icps-info@acm.org.
 
