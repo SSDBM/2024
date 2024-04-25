@@ -26,6 +26,17 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 Demo papers are up to 4 pages (including references and appendices). Proposals should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will be given an entry in the conference proceedings.
 
+## Important note to authors about the new ACM open access publishing model
+
+ACM has introduced a new open access publishing model for the International Conference Proceedings Series (ICPS). Authors based at institutions that are not yet part of the ACM Open program and do not qualify for a waiver will be required to pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library. To determine whether or not an APC will be applicable to your article, please follow the detailed guidance here: https://www.acm.org/publications/icps/author-guidance.
+
+Further information may be found on the ACM website, as follows:
+
+- Full details of the new ICPS publishing model: https://www.acm.org/publications/icps/faq
+- Full details of the ACM Open program: https://www.acm.org/publications/openaccess
+
+Please direct all questions about the new model to icps-info@acm.org.
+
 ## Topics of Interest
 
 Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
