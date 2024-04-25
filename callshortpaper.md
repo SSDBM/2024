@@ -9,7 +9,8 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2024 will be hosted by the Inria centre at Rennes University and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management, and high-performance data analysis tools and techniques for distributed datasets.
 
-<!--The Proceedings of SSDBM 2023 will be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list). The best papers will be considered for publication in the [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
+The Proceedings of SSDBM 2024 will be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list). 
+<!--The best papers will be considered for publication in the [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
 -->
 ## Submission Guidelines
 
@@ -24,7 +25,7 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 ## Short Papers 
 
-Short papers are up to 4 pages (including references and appendices). Short papers should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. Short papers will be given an entry in the conference proceedings.
+Short papers are up to 4 pages (including references and appendices). Short papers should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. Short papers will be will be given an entry in the conference proceedings.
 
 ## Important note to authors about the new ACM open access publishing model
 
@@ -32,8 +33,8 @@ ACM has introduced a new open access publishing model for the International Conf
 
 Further information may be found on the ACM website, as follows:
 
-- Full details of the new ICPS publishing model: https://www.acm.org/publications/icps/faq
-- Full details of the ACM Open program: https://www.acm.org/publications/openaccess
+- [Full details of the new ICPS publishing model.](https://www.acm.org/publications/icps/faq)
+- [Full details of the ACM Open program.](https://www.acm.org/publications/openaccess)
 
 Please direct all questions about the new model to icps-info@acm.org.
 
