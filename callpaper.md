@@ -14,7 +14,7 @@ The Proceedings of SSDBM 2024 will be published by [Association of Computing Mac
 -->
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished manuscripts. All submissions should be formatted using the ACM format available at https://www.acm.org/publications/proceedings-template by selecting the generic “sigconf” sample. For submissions prepared in LaTex,  authors are recommended to use \documentclass[sigconf,review]{acmart} conﬁguration. 
+Authors are invited to submit original, unpublished manuscripts. All submissions should be formatted using the ACM format available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) by selecting the generic “sigconf” sample. For submissions prepared in LaTex,  authors are recommended to use \documentclass[sigconf,review]{acmart} conﬁguration. 
 SSDBM 2024 is single-blind reviewed; authors must include their names and affiliations on the first page. 
 <!-- All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy). -->
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
@@ -24,7 +24,7 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 ## Research Papers 
 
-Research papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters and given a short presentation slot in the conference. All papers, regardless of size, will be be published in the ACM Digital Library.
+Research papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters and given a short presentation slot in the conference. All papers, regardless of size, will be given an entry in the conference proceedings.
 
 ## Important note to authors about the new ACM open access publishing model
 
