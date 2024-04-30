@@ -19,7 +19,7 @@ SSDBM 2024 is single-blind reviewed; authors must include their names and affili
 All authors should respect [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) and use of large language models (LLMs). 
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
-* Submission deadline: April 29 at 23:59 AoE (Anywhere on Earth)
+* Submission deadline: (Final Extension) May 8 at 23:59 AoE (Anywhere on Earth)
 * Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2024) 
 
 ## Research Papers 
