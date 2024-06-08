@@ -16,8 +16,9 @@ There will be a poster session where participants will have the opportunity to p
 Posters will be subject to a very light scope and presentation check. The number of accepted posters is limited by the  poster space available.
 
 Poster submissions consist of: 
-(1) An extended abstract (extended abstracts should not exceed 2 pages and should be formatted using the ACM format available at https://www.acm.org/publications/proceedings-template by selecting the generic “sigconf” sample.). Authors must include their names and affiliations on the first page
-(2) A draft of the proposed poster (organized as one A0-size sheet, in vertical (preferred) or horizontal layout).  
+* An extended abstract (extended abstracts should not exceed 2 pages and should be formatted using the ACM format available at https://www.acm.org/publications/proceedings-template by selecting the generic “sigconf” sample.).
+Authors must include their names and affiliations on the first page.
+*  A draft of the proposed poster (organized as one A0-size sheet, in vertical (preferred) or horizontal layout).  
 
 Extended abstracts will be published on the SSDBM 2024 website at the time of the conference. 
 Research Posters (extended abstracts) will not be included in the proceedings. 
