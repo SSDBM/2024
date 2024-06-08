@@ -25,7 +25,7 @@ Research Posters (extended abstracts) will not be included in the proceedings.
 
 At least one author of each accepted poster must register and plan to attend  the conference in-person (student rate applies for student posters). Each author registration can be applied to only one accepted submission. 
 
-* Submission deadline: (Final Extension) June 20 at 23:59 AoE (Anywhere on Earth)
+* Submission deadline: June 20 at 23:59 AoE (Anywhere on Earth)
 * Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2024) 
 
 ## Topics of Interest
