@@ -24,7 +24,7 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 ## Research Papers 
 
-Research papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters and given a short presentation slot in the conference. All papers, regardless of size, will be given an entry in the conference proceedings.
+Research papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be given a short presentation slot in the conference and presented in the form of posters (depends on the available poster space). All papers, regardless of size, will be given an entry in the conference proceedings.
 
 ## Important note to authors about the new ACM open access publishing model
 
