@@ -24,7 +24,7 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 ## Short Papers 
 
-Short papers are up to 4 pages (including references and appendices). Short papers should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. Short papers will be will be given an entry in the conference proceedings.
+Short papers are up to 4 pages (including references and appendices). Short papers should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. Short papers will be given a short presentation slot in the conference and presented in the form of posters (depends on the available poster space). Short papers will be will be given an entry in the conference proceedings.
 
 ## Important note to authors about the new ACM open access publishing model
 
