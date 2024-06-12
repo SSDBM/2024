@@ -16,7 +16,7 @@ Here is a non-exhaustive list of hotels we recommend for your stay.
 * [Hotel Mercure Place de Bretagne](https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&amp;code_hotel=2027)
 * [Campanile Rennes Centre Gare](https://rennes-centre-gare.campanile.com/)
 * [Adagio Access Rennes Centre](https://www.adagio-city.com/gb/hotel-8398-aparthotel-adagio-access-rennes-centre/index.shtml)
-* [Hôtel de Nemours](http://www.hotelnemours.com/
+* [Hôtel de Nemours](http://www.hotelnemours.com/)
 * [Gîte du Passant Rennais](https://www.booking.com/hotel/fr/gite-du-passant-rennais.fr.html)
 * [Hôtel Anne de Bretagne](https://www.hotel-rennes.com/)
 * [Balthazar Hotel and Spa](https://hotel-balthazar.com/en/)
