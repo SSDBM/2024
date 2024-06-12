@@ -29,4 +29,3 @@ Here is a non-exhaustive list of hotels we recommend for your stay.
 * [Kyriad Rennes Centre Gare](https://rennes-centre.kyriad.com/)
 * [Mercure Rennes Centre Gare](https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&amp;code_hotel=1249)
 * [Ibis Styles Rennes Centre Gare Nord](https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&amp;code_hotel=3450)
-* [Novotel Rennes Centre Gare](https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&amp;code_hotel=7383)
