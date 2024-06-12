@@ -12,8 +12,8 @@ The conference will take place at the Inria Conference Center in Rennes, 263 Av.
 Here is a non-exhaustive list of hotels we recommend for your stay.
 
 * [Les Chouettes Hostel](https://www.chouettes-hostel.com/)
-* [Séjours et Affaires Appart’hôtel de Bretagne](https://www.tourisme-rennes.com/en/)
-* [Hotel Mercure Place de Bretagne](https://www.tourisme-rennes.com/en/)
+* [Séjours et Affaires Appart’hôtel de Bretagne](https://www.sejours-affaires.com/residence-hoteliere-aparthotel-rennes-29.html)
+* [Hotel Mercure Place de Bretagne](https://www.sejours-affaires.com/residence-hoteliere-aparthotel-rennes-29.html)
 * [Campanile Rennes Centre Gare](https://www.tourisme-rennes.com/en/)
 * [Adagio Access Rennes Centre](https://www.tourisme-rennes.com/en/)
 * [Hôtel de Nemours](https://www.tourisme-rennes.com/en/)
