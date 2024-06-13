@@ -30,10 +30,10 @@ At least one author per paper must be registered at the full registration rate, 
 Student fees are applicable only to full-time students. Students must be able to provide a proof of their student status (student ID card or certificate).
 
 #### Substitution:
-If you are unable to attend the conference, you can request the transfer of your registration to another participant by notifying the conference secretariat before the conference.
+If you are unable to attend the conference, you can request the transfer of your registration to another participant by notifying [the conference secretariat](mailto:edith.blin@inria.fr,c.foubert@agence-vert.com) before the conference.
 
 #### Refund policy:
-All cancellations must be notified by e-mail to the the conference secretariat. The following conditions will be applied:
+All cancellations must be notified by e-mail to [the conference secretariat](mailto:edith.blin@inria.fr,c.foubert@agence-vert.com). The following conditions will be applied:
 
 * If a registrant is unable to attend an event for any reason they may substitute, by arrangement with the conference organisers, someone else from the same institute/organisation
 *  Author registrations are non-refundable
