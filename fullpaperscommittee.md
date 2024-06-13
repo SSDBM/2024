@@ -11,7 +11,7 @@ Jay Lofstead, Sandia National Laboratories (SNL), USA<br>
 Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
 
 **Program Committee**<br>
-
+<!--
 * **Peter Baumann**, Jacobs University Bremen<br>
 * **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
 * **Ladjel Bellatreche**, LIAS/ENSMA<br>
@@ -66,3 +66,4 @@ Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
 * **Qiang Zhu**, University of Michigan - Dearborn<br>
 * **Sotirios Ziavras**, New Jersey Institute of Technology<br>
 * **Jia Zou**, Arizona State University<br>
+--!>
