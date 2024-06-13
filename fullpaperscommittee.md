@@ -12,8 +12,6 @@ Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
 
 **Program Committee**<br>
 
-
-* **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br>
 * **Mohammad Amiri**, Stony Brook University, <br>
 * **Ladjel Bellatreche**, LIAS/ENSMA<br>
 * **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br>
