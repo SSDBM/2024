@@ -5,7 +5,7 @@ layout: default
 
 # Registration
 
-Registration is now open. Registrations will be online only. You can register at the following link: [REGISTRATION FORM link.](https://v4.event-vert.org/en/ssdbm2024/)
+Registration is now open. Registrations will be online only. You can register at the following link: [REGISTRATION FORM link.](https://v4.event-vert.org/en/ssdbm2024/) To edit an existing registration, you can use the follwoing link: [EDIT EXISTING REGISTRATION link.](https://v4.event-vert.org/en/ssdbm2024/login.html)  
 
 ### Registration Fees
 
