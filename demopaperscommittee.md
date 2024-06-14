@@ -6,8 +6,8 @@ layout: default
 # Demo papers Program Committee
 
 **Chairs**<br>
-Diana Moise, HPE, Switzerland<br>
-Cédric Tedeschi, University of Rennes, France<br>
+**Diana Moise**, HPE, Switzerland<br>
+**Cédric Tedeschi**, University of Rennes, France<br>
 
 **Program Committee**<br>
 
