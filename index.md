@@ -13,6 +13,7 @@ SSDBM 2024 will be hosted by the [Inria centre at Rennes University](./venue.md)
 
 
 ## Announcements
+- Registration is now open!
 - Call for Posters is announced! Please see this page [call for poster](./callposter.md) for full details.
 - Call for Demo Papers is announced! Please see this page [call for demo paper](./calldemopaper.md) for full details.
 - Call for Short Papers is announced! Please see this page [call for short paper](./callshortpaper.md) for full details.
