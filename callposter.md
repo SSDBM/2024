@@ -11,7 +11,7 @@ SSDBM 2024 will be hosted by the Inria centre at Rennes University and will cont
 
 ## Research Posters 
 
-There will be a poster session where participants will have the opportunity to present their ongoing research with new problems/solutions; and receive feedback from the community. Accepted posters will also be given a short presentation slot in the conference (To be confirmed). 
+There will be a poster session where participants will have the opportunity to present their ongoing research with new problems/solutions; and receive feedback from the community. Accepted posters will also be given a short presentation slot in the conference. 
 
 Posters will be subject to a very light scope and presentation check. The number of accepted posters is limited by the  poster space available.
 
