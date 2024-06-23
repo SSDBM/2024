@@ -24,7 +24,7 @@ At least one author of each accepted paper or poster _must register and plan to 
 
 ## Demo Papers
 
-Demo papers are up to 4 pages (including references and appendices). Proposals should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will be given an entry in the conference proceedings.
+Demo papers are up to 4 pages (including references and appendices). Proposals should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will be given a short presentation slot in the conference and presented in the form of posters. Demo papers will be given an entry in the conference proceedings.
 
 ## Important note to authors about the new ACM open access publishing model
 
