@@ -13,7 +13,7 @@ layout: default
 
 * **Kamel Boukhalfa**, National School of Artificial Intelligence, ENSIA, Algiers, Algeria<br>
 * **Florina M. Ciorba**, University of Basel<br>
-* **Laurent D'Orazio**, University of Rennes<br>
+* **Laurent D'Orazio**, Univ Rennes, CNRS, IRISA<br>
 * **Helene Jaudoin**, University of Rennes, IRISA<br>
 * **Youngjae	Kim**, Sogang University<br>
 * **Cheng-Te Li**, National Cheng Kung University<br>
