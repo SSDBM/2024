@@ -14,7 +14,7 @@ layout: default
 **Program Committee**<br>
 
 * **Mohammad Amiri**, Stony Brook University, <br>
-* **Ladjel Bellatreche**, LIAS/ENSMA<br>
+* **Ladjel Bellatreche**, LIAS/ISAE-ENSMA<br>
 * **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br>
 * **David Broneske**, German Centre for Higher Education Research and Science Studies<br>
 * **Tsz Nam Chan**, Shenzhen University<br>
@@ -34,7 +34,7 @@ layout: default
 * **Benjamin	Nguyen**, INSA Centre Val de Loire<br>
 * **Bogdan Nicolae**, Argonne National Laboratory<br>
 * **Marcus Paradies**, TU Ilmenau<br>
-* **Arnab Kumar**, Paul	BITS Pilani, K K Birla Goa Campus, Goa, India<br>
+* **Arnab Kumar Paul**, BITS Pilani, K K Birla Goa Campus, Goa, India<br>
 * **Chengzhi	Piao**	, Hong Kong Baptist University<br>
 * **Line C. Pouchard**, Brookhaven National Lab<br>
 * **Yu-Xuan	Qiu**, University of Technology Sydney<br>
