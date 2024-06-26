@@ -7,14 +7,14 @@ layout: default
 
 **Chairs**<br>
 **Tassadit Bouadi**, University of Rennes, France<br>
-**Jalil	Boukhobza**, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France<br>
+**Jalil	Boukhobza**, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne Lab-STICC), France<br>
 
 **Program Committee**<br>
 
-* **Kamel Boukhalfa**, USTHB University<br>
+* **Kamel Boukhalfa**, National School of Artificial Intelligence, ENSIA, Algiers, Algeria<br>
 * **Florina M. Ciorba**, University of Basel<br>
 * **Laurent D'Orazio**, University of Rennes<br>
-* **Helene Jaudoin**, IRISA-ENSSAT<br>
+* **Helene Jaudoin**, University of Rennes, IRISA<br>
 * **Youngjae	Kim**, Sogang University<br>
 * **Cheng-Te Li**, National Cheng Kung University<br>
 * **Veronika Peralta**, University of Tours<br>
