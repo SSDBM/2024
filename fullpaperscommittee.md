@@ -38,7 +38,7 @@ layout: default
 * **Chengzhi	Piao**	, Hong Kong Baptist University<br>
 * **Line C. Pouchard**, Brookhaven National Lab<br>
 * **Yu-Xuan	Qiu**, University of Technology Sydney<br>
-* **Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France<br>
+* **Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA de Saclay<br>
 * **Robert Schuler**, USC Information Sciences Institute<br>
 * **Maximilien Servajean**, LIRMM, Université Montpellier 2<br>
 * **Houjun Tang**, Lawrence Berkeley National Laboratory<br>
