@@ -27,6 +27,7 @@ layout: default
 * **Karlyn Harrod**, Oak Ridge National Laboratory<br>
 * **Xin	Huang**, Hong Kong Baptist University<br>
 * **Jeong-Hyon Hwang**, State University of New York, University at Albany<br>
+* **Katie Knight**, Oak Ridge National Laboratory
 * **Michael Kuhn**, Otto von Guericke University Magdeburg<br>
 * **Chuanyou Li**, Southeast University<br>
 * **Xin Liang**, University of California, Riverside<br>
