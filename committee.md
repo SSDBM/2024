@@ -19,7 +19,7 @@ Amelie Chi Zhou, Hong Kong Baptist University, Hong Kong<br>
 
 **Short Paper Chairs**<br>
 Tassadit Bouadi, University of Rennes, France<br>
-Jalil	Boukhobza, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France<br>
+Jalil	Boukhobza, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne Lab-STICC), France<br>
 
 **Demo Paper Chairs**<br>
 Diana Moise, HPE, Switzerland<br>
