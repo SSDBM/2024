@@ -18,6 +18,6 @@ layout: default
 * **Youngjae	Kim**, Sogang University<br>
 * **Cheng-Te Li**, National Cheng Kung University<br>
 * **Veronika Peralta**, University of Tours<br>
-* **Soror Sahri**, Paris Descartes University<br>
+* **Soror Sahri**,  Université Paris Cité <br>
 * **Carlo Sartiani**, Universita della Basilicata<br>
 * **Nicolas Travers**, Léonard de Vinci Pôle Universitaire, Research Center<br>
