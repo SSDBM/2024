@@ -17,8 +17,8 @@ layout: default
 * **Ladjel Bellatreche**, LIAS/ENSMA<br>
 * **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br>
 * **David Broneske**, German Centre for Higher Education Research and Science Studies<br>
-* **Tsz Nam Chan**, The Hong Kong Polytechnic University<br>
-* **Matthew Curry**, Sandia National Laboratories<br>
+* **Tsz Nam Chan**, Shenzhen University<br>
+* **Matthew L. Curry**, Sandia National Laboratories<br>
 * **Josep Domingo-Ferrer**, Universitat Rovira i Virgili<br>
 * **Kira Duwe**, EPFL<br>
 * **Elena Ferrari**, University of Insubria<br>
