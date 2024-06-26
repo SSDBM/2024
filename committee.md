@@ -86,7 +86,7 @@ Yongluan Zhou, University of Copenhagen<br>
 **Alexander Rasin**, DePaul University<br>
 **Tore Risch**, Uppsala University<br>
 **Florin Rusu**, University of California, Merced<br>
-**Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France<br>
+**Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA de Saclay<br>
 **Jagan Sankaranarayanan**, Google<br>
 **Maximilian Schüle**, University of Bamberg<br>
 **Galen Shipman**, Los Alamos National Laboratory<br>
