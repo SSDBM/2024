@@ -7,7 +7,7 @@ layout: default
 
 **Chairs**<br>
 **Tassadit Bouadi**, University of Rennes, France<br>
-**Jalil	Boukhobza**, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne Lab-STICC), France<br>
+**Jalil	Boukhobza**, National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), Lab-STICC, France<br>
 
 **Program Committee**<br>
 
