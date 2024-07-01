@@ -11,7 +11,7 @@ Registration is now open. Registrations will be online only. You can register at
 
 All fees are in Euro (EUR) inc. VAT. 
 
-|                  | Early (Until <s>June 24</s>June 30) | Late (From <s>June 25</s> July 1) |
+|                  | Early (Until <s>June 24</s>July 4) | Late (From <s>June 25</s> July 5) |
 |------------------|----------------|------------------|
 | Student    | €450.00       | €500.00        |
 | Full     | €550.00        | €600.00          |
