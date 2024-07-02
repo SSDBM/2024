@@ -43,7 +43,7 @@ The lightening talk session will include presentations of posters.
 | 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
 
 
-### Day 2 (Tuesday, July 11) Overview
+### Day 2 (Thursday, July 11) Overview
 
 | Time           | Events                                                                                           |
 |----------------|--------------------------------------------------------------------------------------------------|
@@ -55,7 +55,7 @@ The lightening talk session will include presentations of posters.
 | 14:00 - 19:30 | **Excursion to Mont Saint Michel (included)**                                                                                |
 | 20:00 - 23:00 | Conference Dinner                                                                               |
 
-### Day 3 (Wednesday, July 12) Overview
+### Day 3 (Friday, July 12) Overview
 
 | Time           | Events                                                                                                          |
 |----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -73,12 +73,12 @@ The lightening talk session will include presentations of posters.
 
 See [accepted papers](./accepted-papers.md) to read the abstracts for the complete list of full, short, demonstration, and poster papers to appear at SSDBM 2024.
 
-## Day 1 (Monday, July 10)
+## Day 1 (Wednesday, July 10)
 
 
-## Day 2 (Tuesday, July 11)
+## Day 2 (Thursday, July 11)
 
 
-## Day 3 (Wednesday, July 12)
+## Day 3 (Friday, July 12)
 
 The schedule of paper presentations may be subject to last minute changes, so please [contact us](mailto:ssdbm2024@easychair.org) if you have time-sensitive questions about the schedule.
