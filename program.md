@@ -48,7 +48,7 @@ The lightening talk session will include presentations of posters.
 | Time           | Events                                                                                           |
 |----------------|--------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | Registration with coffee                                                  |
-| 09:00 - 10:00 | [Keynote 2](./keynotes.md#keynote-4)                                         |
+| 09:00 - 10:00 | [Keynote 2](./keynotes.md#keynote-2) by Pierre Hellier                                         |
 | 10:00 - 10:30 | Break                                                                                            |
 | 10:30 - 12:00 | **Poster Session : accepted short and demo papers and posters  |
 | 12:00 - 13:30 | Lunch Break                                                                                      |
@@ -64,7 +64,7 @@ The lightening talk session will include presentations of posters.
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 5](#research-session-5)**  |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
-| 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-2) by Patrick Valduriez                  |
+| 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez                  |
 | 14:30 - 15:00 | **[Research Session 6](#research-session-6)**                      |
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 17:00 | **[Research Session 7](#research-session-7)** |
