@@ -228,5 +228,8 @@ _Marc Tranzer (Inria, Univ. Rennes, CNRS, IRISA) and Shadi Ibrahim (Inria, Univ.
 
 _Mohammad Rizk (Inria, Univ.  Rennes, CNRS, IRISA, Rennes, France), Shadi Ibrahim (Inria, Univ.  Rennes, CNRS, IRISA, Rennes, France) and Thomas Lambert (Universite   de Lorraine, Inria, LORIA, Nancy, France)._
 
+**Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption**
+
+_Claire Guichemerre (Univ Rennes, CNRS, IRISA), Tristan Allard (Univ Rennes, CNRS, IRISA), Sofiane Azogagh (Univ Québec à Montréal), Sébastien Gambs (Univ Québec à Montréal), Marc-Olivier Killijian (Univ Québec à Montréal) and Amr El Abbadi (Univ California Santa Barbara)._
 
 _Accepted Short Research Papers will also participate in the Poster Session._
