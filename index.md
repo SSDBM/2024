@@ -33,6 +33,7 @@ SSDBM 2024 will be hosted by the [Inria centre at Rennes University](./venue.md)
 - <s>Please submit your paper here (https://easychair.org/conferences/?conf=ssdbm2023).</s>
 -->
 ## News and Highlights
+- The conference program will consist of 4 [keynotes](./keynotes.md), 11 full paper presentations, 7 short paper presentations, 1 demonstration, 6 poster presentations, and 1 poster session  (see [accepted papers](./accepted-papers.md)).
 - All papers (Full, Short, and Demo) will appear in the proceedings to be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list).
 
 <!--
