@@ -39,7 +39,7 @@ The lightening talk session will include presentations of posters.
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 16:30 | **[Research Session 3](#research-session-3)** |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)**: Poster Lightning Talks |
-| 16:30 - 17:00 | Depart for Reception |
+| 17:00 - 18:30 | Depart for Reception |
 | 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
 
 
@@ -52,7 +52,7 @@ The lightening talk session will include presentations of posters.
 | 10:00 - 10:30 | Break                                                                                            |
 | 10:30 - 12:00 | **Poster Session : accepted short and demo papers and posters  |
 | 12:00 - 13:30 | Lunch Break                                                                                      |
-| 14:00 - 19:30 | **Excursion to Mont Saint Michel (included)**                                                                                |
+| 14:00 - 19:45 | **Excursion to Mont Saint Michel (included)**                                                                                |
 | 20:00 - 23:00 | Conference Dinner                                                                               |
 
 ### Day 3 (Friday, July 12) Overview
@@ -60,7 +60,7 @@ The lightening talk session will include presentations of posters.
 | Time           | Events                                                                                                          |
 |----------------|-----------------------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | Registration with coffee                                                  |
-| 09:05 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu                                                                          |
+| 09:00 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu                                                                          |
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 5](#research-session-5)**  |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
