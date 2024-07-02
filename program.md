@@ -23,7 +23,7 @@ The program will consist of keynotes, research sessions, lightening talk session
 Each day will begin with registration and coffee.
 The research sessions will include presentations of full and short research papers. 
 The lightening talk session will include presentations of posters. 
-All accepted short and demo papers and posters are expected to take part in the poster session. 
+**All accepted short and demo papers and posters are expected to take part in the poster session.** 
 
 ### Day 1 (Wednesday, July 10) Overview
 
@@ -40,8 +40,7 @@ All accepted short and demo papers and posters are expected to take part in the 
 | 15:30 - 16:30 | **[Research Session 3](#research-session-3)** |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)**: Poster Lightning Talks |
 | 16:30 - 17:00 | Depart for Reception |
-| 18:30 - 20:00 | **Conference Reception at Rennes City Hall **: 
-Rennes City Hall "Hotel de Ville" ("Grand Salon" room), Place de la Mairie, Rennes                                                                                   |
+| 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
 
 
 ### Day 2 (Tuesday, July 11) Overview
@@ -53,7 +52,7 @@ Rennes City Hall "Hotel de Ville" ("Grand Salon" room), Place de la Mairie, Renn
 | 10:00 - 10:30 | Break                                                                                            |
 | 10:30 - 12:00 | **Poster Session : accepted short and demo papers and posters  |
 | 12:00 - 13:30 | Lunch Break                                                                                      |
-| 14:00 - 19:30 | **Excursion to Mont Saint Michel  including (included)**                                                                                |
+| 14:00 - 19:30 | **Excursion to Mont Saint Michel (included)**                                                                                |
 | 20:00 - 23:00 | Conference Dinner                                                                               |
 
 ### Day 3 (Wednesday, July 12) Overview
