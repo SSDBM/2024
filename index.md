@@ -13,6 +13,8 @@ SSDBM 2024 will be hosted by the [Inria centre at Rennes University](./venue.md)
 
 
 ## Announcements
+- [Accepted papers](accepted-papers.html) have been announced.
+- The deadline for [Camera-ready](camera_ready.html) papers and [author registration](./register.md) is 5 July 2024.
 - Registration is now open!
 - Call for Posters is announced! Please see this page [call for poster](./callposter.md) for full details.
 - Call for Demo Papers is announced! Please see this page [call for demo paper](./calldemopaper.md) for full details.
