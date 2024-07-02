@@ -12,10 +12,12 @@ layout: default
 
 ## Keynote 2
 
-**Patrick Valduriez** ([bio](https://www-sop.inria.fr/members/Patrick.Valduriez/))
+**Pierre Hellier** ([bio](https://people.irisa.fr/Pierre.Hellier/))
 
 ## Keynote 3
 
 **John Wu** ([bio](https://profiles.lbl.gov/20161-john-wu/))
 
 ## Keynote 4
+
+**Patrick Valduriez** ([bio](https://www-sop.inria.fr/members/Patrick.Valduriez/))
