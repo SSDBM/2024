@@ -70,6 +70,7 @@ The lightening talk session will include presentations of posters.
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph Data & Mining |
 | 17:00 - 17:10 | **Conference Close** |
+
 # Research Sessions
 
 See [accepted papers](./accepted-papers.md) to read the abstracts for the complete list of full, short, demonstration, and poster papers to appear at SSDBM 2024.
