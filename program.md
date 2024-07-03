@@ -33,12 +33,12 @@ The lightening talk session will include presentations of posters.
 | 08:55 - 09:05 | SSDBM Opening by Shadi Ibrahim                                                               |
 | 09:05 - 10:00 | [Keynote 1](./keynotes.md#keynote-1) by Angela Bonifati                                                                              |
 | 10:00 - 10:30 | Break                                                                                                           |
-| 10:30 - 12:00 | **[Research Session 1](#research-session-1)**  |
+| 10:30 - 12:00 | **[Research Session 1:](#research-session-1)** Machine learning and data Science |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
-| 13:30 - 15:00 | **[Research Session 2](#research-session-2)**                      |
+| 13:30 - 15:00 | **[Research Session 2:](#research-session-2)** Indexing and Querying 1                     |
 | 15:00 - 15:30 | Break                                                                                                           |
-| 15:30 - 16:30 | **[Research Session 3](#research-session-3)** |
-| 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)**: Poster Lightning Talks |
+| 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy |
+| 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)** Poster Lightning Talks |
 | 17:00 - 18:30 | Depart for Reception |
 | 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
 
@@ -50,7 +50,7 @@ The lightening talk session will include presentations of posters.
 | 08:30 - 09:00 | Registration with coffee                                                  |
 | 09:00 - 10:00 | [Keynote 2](./keynotes.md#keynote-2) by Pierre Hellier                                         |
 | 10:00 - 10:30 | Break                                                                                            |
-| 10:30 - 12:00 | **Poster Session : accepted short and demo papers and posters  |
+| 10:30 - 12:00 | **Poster Session : accepted short and demo papers, and posters**  |
 | 12:00 - 13:30 | Lunch Break                                                                                      |
 | 14:00 - 19:45 | **Excursion to Mont Saint Michel (included)**                                                                                |
 | 20:00 - 23:00 | Conference Dinner                                                                               |
@@ -59,16 +59,17 @@ The lightening talk session will include presentations of posters.
 
 | Time           | Events                                                                                                          |
 |----------------|-----------------------------------------------------------------------------------------------------------------|
-| 08:30 - 09:00 | Registration with coffee                                                  |
-| 09:00 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu                                                                          |
+| 08:30 - 08:55 | Registration with coffee                                                  |
+| 08:55 - 09:05 | Announcement of SSDBM 2025 
+| 09:05 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu                                                                          |
 | 10:00 - 10:30 | Break                                                                                                           |
-| 10:30 - 12:00 | **[Research Session 5](#research-session-5)**  |
+| 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
 | 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez                  |
-| 14:30 - 15:00 | **[Research Session 6](#research-session-6)**                      |
+| 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Indexing and Querying 2                  |
 | 15:00 - 15:30 | Break                                                                                                           |
-| 15:30 - 17:00 | **[Research Session 7](#research-session-7)** |
-
+| 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph Data & Mining |
+| 17:00 - 17:10 | **Conference Close** |
 # Research Sessions
 
 See [accepted papers](./accepted-papers.md) to read the abstracts for the complete list of full, short, demonstration, and poster papers to appear at SSDBM 2024.
@@ -83,7 +84,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , Suren Byna , Jean Luca Bez  and Ravi Madduri
 
 <h6 id="research-session-2"></h6>
-### Research Session 2 : Indexing and querying 1
+### Research Session 2 : Indexing and Querying 1
 
 * **Model Reuse in Learned Spatial Indexes** Mayur Patil and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  Fatemeh Farokhmanesh, Christoph Neuhauser  and Rüdiger Westermann.
