@@ -87,7 +87,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 * **Model Reuse in Learned Spatial Indexes** Mayur Patil and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries** 
-* **Similarity Measures Recommendation for Mixed Data Clustering** Fatemeh Farokhmanesh , Christoph Neuhauser  and Rüdiger Westermann
+* **Similarity Measures Recommendation for Mixed Data Clustering** Fatemeh Farokhmanesh, Christoph Neuhauser and Rüdiger Westermann
   
 
 <h6 id="research-session-3"></h6>
@@ -100,14 +100,38 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 4 : Poster Lightning Talks (5 minutes)
 
 * **Efficient Streaming Analysis of High-Resolution Plasma Transport** Junmin Gu, Paul Lin, Kesheng Wu, Seung-Hoe Ku, C.S Chang, Robert Hager, Aaron Scheinberg and Jong Youl Choi
-* **Enhancing Observatories with Fog Computing** Ammar Kazem , Guillaume Pierre and Laurent Longuevergne
+* **Enhancing Observatories with Fog Computing** Ammar Kazem, Guillaume Pierre and Laurent Longuevergne
 * **Towards Optimizing Data Movement in the Computing Continuum Workflow** Marc Tranzer and Shadi Ibrahim
 * **On The Energy Footprint of Erasure Codes in Ceph** Radita Liem and Shadi Ibrahim
-* **Quantifying the Performance of Erasure Codes in P2P Storage Systems** Mohammad Rizk , Shadi Ibrahim and Thomas Lambert
-* **Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption** Claire Guichemerre , Tristan Allard , Sofiane Azogagh, Sébastien Gambs, Marc-Olivier Killijian and Amr El Abbadi.
+* **Quantifying the Performance of Erasure Codes in P2P Storage Systems** Mohammad Rizk, Shadi Ibrahim and Thomas Lambert
+* **Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption** Claire Guichemerre, Tristan Allard, Sofiane Azogagh, Sébastien Gambs, Marc-Olivier Killijian and Amr El Abbadi.
 
-## Day 2 (Thursday, July 11)
 
 ## Day 3 (Friday, July 12)
+
+<h6 id="research-session-5"></h6>
+### Research Session 5 : Applied computing 
+
+* **How do users design scientific workflows? The Case of Snakemake and Nextflow** Sebastian Pohl, Nourhan Elfaramawy , Artur Miling, Kedi Cao, Birte Kehr and Matthias Weidlich
+* **Why Do Scientific Workflows Still Break?** Nahan Maligeay, Noémie Bossut and Khalid Belhajjame (short) 
+* **WebAssembly serverless join: A Study of its Application** Chanattan Sok, Laurent D’Orazio, Reyyan Tekin and Dimitri Tombroff (short)
+* **VG-Prefetcher Cache: Towards Edge-Based Time Series Data Management Using Visibility Graph Prefetching** Akram Bensalem, Laurent D’Orazio, Julien Lallet and Andrea Enrici (short)
+* **Performance-cost trade-offs in service orchestration for edge computing** Daniel Balouek (demo)
+
+<h6 id="research-session-6"></h6>
+### Research Session 6 : Indexing and Querying 2
+
+* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** Alexander Rasin, James Herbick, Ben Lenard, Nick Scope and James Wagner (short)
+* **A Model and Query Language for Multi-modal Hybrid Query** Chuan Hu, Zihao Zhao, Along Mao and Zhihong Shen (short)
+
+<h6 id="research-session-7"></h6>
+### Research Session 7 : Graph Data & Mining
+
+* **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** Hasan Jamil and Joel Oduro-Afriyie (short)
+* **Towards a Temporal Graph Query Language for Durable Patterns** Daniel Betsche, Klemens Böhm, Balduin Katzer, Karlsruhe University of Applied Sciences and Katrin Schulz (short)
+* **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** Zitong Wang, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin
+* **Scale Fairness on Spectral Clustering** Zhijing Yang, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long
+
+
 
 The schedule of paper presentations may be subject to last minute changes, so please [contact us](mailto:ssdbm2024@easychair.org) if you have time-sensitive questions about the schedule.
