@@ -75,9 +75,38 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 ## Day 1 (Wednesday, July 10)
 
+<h6 id="research-session-1"></h6>
+### Research Session 1 : Machine learning and data Science 
+
+* **Similarity Measures Recommendation for Mixed Data Clustering** Abdoulaye Diop, Nabil El Malki, Max Chevalier, André Péninou, Roman Jimenez Geoffrey and Olivier Teste
+* **CURD: Context-aware Relevance and Urgency Determination** Ademola Adesokan and Sanjay Madria
+* **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , Suren Byna , Jean Luca Bez  and Ravi Madduri
+
+<h6 id="research-session-2"></h6>
+### Research Session 2: Indexing and querying 1
+
+* **Model Reuse in Learned Spatial Indexes** Mayur Patil and Chinya V Ravishankar
+* **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries** 
+* **Similarity Measures Recommendation for Mixed Data Clustering** Fatemeh Farokhmanesh , Christoph Neuhauser  and Rüdiger Westermann
+  
+
+<h6 id="research-session-3"></h6>
+### Research Session 3 : Trust & Privacy
+
+* **The Intersection of Compliance, Databases, and IT Operations** Ben Lenard, Alexander Rasin, Nick Scope and Thamer Al Johani
+* **Statistical Privacy and Consent in Data Aggregation**  Nick Scope (DePaul University), Alexander Rasin, Ben Lenard and James Wagner
+
+<h6 id="research-session-4"></h6>
+### Research Session 4 : Poster Lightning Talks (5 minutes)
+
+* **Efficient Streaming Analysis of High-Resolution Plasma Transport** Junmin Gu, Paul Lin, Kesheng Wu, Seung-Hoe Ku, C.S Chang, Robert Hager, Aaron Scheinberg and Jong Youl Choi
+* **Enhancing Observatories with Fog Computing** Ammar Kazem , Guillaume Pierre and Laurent Longuevergne
+* **Towards Optimizing Data Movement in the Computing Continuum Workflow** Marc Tranzer and Shadi Ibrahim
+* **On The Energy Footprint of Erasure Codes in Ceph** Radita Liem and Shadi Ibrahim
+* **Quantifying the Performance of Erasure Codes in P2P Storage Systems** Mohammad Rizk , Shadi Ibrahim and Thomas Lambert
+* **Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption** Claire Guichemerre , Tristan Allard , Sofiane Azogagh, Sébastien Gambs, Marc-Olivier Killijian and Amr El Abbadi.
 
 ## Day 2 (Thursday, July 11)
-
 
 ## Day 3 (Friday, July 12)
 
