@@ -23,7 +23,7 @@ We present a new approach to these challenges called Learned Spatial Indexing wi
 
 **The Intersection of Compliance, Databases, and IT Operations.**
 
-_Ben Lenard (Argonne National Laboratory,DePaul University), Alexander Rasin (DePaul University), Nick Scope (DePaul University) and Thamer Al Johani (DePaul University). ._ 
+_Ben Lenard (Argonne National Laboratory,DePaul University), Alexander Rasin (DePaul University), Nick Scope (DePaul University) and Thamer Al Johani (DePaul University)._ 
 
 Abstract
 
