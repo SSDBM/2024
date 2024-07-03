@@ -86,8 +86,8 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 2 : Indexing and querying 1
 
 * **Model Reuse in Learned Spatial Indexes** Mayur Patil and Chinya V Ravishankar
-* **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries** 
-* **Similarity Measures Recommendation for Mixed Data Clustering** Fatemeh Farokhmanesh, Christoph Neuhauser and Rüdiger Westermann
+* **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  Fatemeh Farokhmanesh, Christoph Neuhauser  and Rüdiger Westermann.
+* **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** Chuan Hu, Jiawei Cai, Zihao Zhao and Zhihong Shen
   
 
 <h6 id="research-session-3"></h6>
