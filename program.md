@@ -101,8 +101,8 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 * **Efficient Streaming Analysis of High-Resolution Plasma Transport** Junmin Gu, Paul Lin, Kesheng Wu, Seung-Hoe Ku, C.S Chang, Robert Hager, Aaron Scheinberg and Jong Youl Choi
 * **Enhancing Observatories with Fog Computing** Ammar Kazem, Guillaume Pierre and Laurent Longuevergne
-* **Towards Optimizing Data Movement in the Computing Continuum Workflow** Marc Tranzer and Shadi Ibrahim
-* **On The Energy Footprint of Erasure Codes in Ceph** Radita Liem and Shadi Ibrahim
+* **Towards Optimizing Data Movement in the Computing Continuum Workflow** Radita Liem and Shadi Ibrahim
+* **On The Energy Footprint of Erasure Codes in Ceph** Marc Tranzer and Shadi Ibrahim
 * **Quantifying the Performance of Erasure Codes in P2P Storage Systems** Mohammad Rizk, Shadi Ibrahim and Thomas Lambert
 * **Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption** Claire Guichemerre, Tristan Allard, Sofiane Azogagh, Sébastien Gambs, Marc-Olivier Killijian and Amr El Abbadi.
 
