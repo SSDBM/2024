@@ -94,7 +94,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 3 : Trust & Privacy
 
 * **The Intersection of Compliance, Databases, and IT Operations** Ben Lenard, Alexander Rasin, Nick Scope and Thamer Al Johani
-* **Statistical Privacy and Consent in Data Aggregation**  Nick Scope (DePaul University), Alexander Rasin, Ben Lenard and James Wagner
+* **Statistical Privacy and Consent in Data Aggregation**  Nick Scope, Alexander Rasin, Ben Lenard and James Wagner
 
 <h6 id="research-session-4"></h6>
 ### Research Session 4 : Poster Lightning Talks (5 minutes)
