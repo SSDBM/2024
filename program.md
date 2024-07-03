@@ -83,7 +83,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , Suren Byna , Jean Luca Bez  and Ravi Madduri
 
 <h6 id="research-session-2"></h6>
-### Research Session 2: Indexing and querying 1
+### Research Session 2 : Indexing and querying 1
 
 * **Model Reuse in Learned Spatial Indexes** Mayur Patil and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries** 
