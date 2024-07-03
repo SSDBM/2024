@@ -80,7 +80,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 <h6 id="research-session-1"></h6>
 ### Research Session 1 : Machine learning and data Science 
 
-* **Similarity Measures Recommendation for Mixed Data Clustering** __Abdoulaye Diop__, Nabil El Malki, Max Chevalier, André Péninou, Roman Jimenez Geoffrey and Olivier Teste
+* **Similarity Measures Recommendation for Mixed Data Clustering** __ Abdoulaye Diop __, Nabil El Malki, Max Chevalier, André Péninou, Roman Jimenez Geoffrey and Olivier Teste
 * **CURD: Context-aware Relevance and Urgency Determination** Ademola Adesokan and _Sanjay Madria_
 * **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , _Suren Byna_, Jean Luca Bez and Ravi Madduri
 
