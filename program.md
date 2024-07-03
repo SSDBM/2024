@@ -81,32 +81,32 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 1 : Machine learning and data Science 
 
 * **Similarity Measures Recommendation for Mixed Data Clustering** <ins>_Abdoulaye Diop_</ins>, Nabil El Malki, Max Chevalier, André Péninou, Roman Jimenez Geoffrey and Olivier Teste
-* **CURD: Context-aware Relevance and Urgency Determination** Ademola Adesokan and <ins>_Sanjay Madria_</ins>_
+* **CURD: Context-aware Relevance and Urgency Determination** Ademola Adesokan and <ins>_Sanjay Madria_</ins>
 * **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , <ins>_Suren Byna_</ins>, Jean Luca Bez and Ravi Madduri
 
 <h6 id="research-session-2"></h6>
 ### Research Session 2 : Indexing and Querying 1
 
-* **Model Reuse in Learned Spatial Indexes** _Mayur Patil_ and Chinya V Ravishankar
-* **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  _Fatemeh Farokhmanesh_, Christoph Neuhauser  and Rüdiger Westermann.
-* **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** _Chuan Hu_, Jiawei Cai, Zihao Zhao and Zhihong Shen
+* **Model Reuse in Learned Spatial Indexes** <ins>_Mayur Patil_</ins> and Chinya V Ravishankar
+* **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  <ins>_Fatemeh Farokhmanesh_</ins>, Christoph Neuhauser  and Rüdiger Westermann.
+* **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** <ins>_Chuan Hu_</ins>, Jiawei Cai, Zihao Zhao and Zhihong Shen
   
 
 <h6 id="research-session-3"></h6>
 ### Research Session 3 : Trust & Privacy
 
-* **The Intersection of Compliance, Databases, and IT Operations** _Ben Lenard_, Alexander Rasin, Nick Scope and Thamer Al Johani
-* **Statistical Privacy and Consent in Data Aggregation**  Nick Scope, _Alexander Rasin_, Ben Lenard and James Wagner
+* **The Intersection of Compliance, Databases, and IT Operations** <ins>_Ben Lenard_</ins>, Alexander Rasin, Nick Scope and Thamer Al Johani
+* **Statistical Privacy and Consent in Data Aggregation**  Nick Scope, <ins>_Alexander Rasin_</ins>, Ben Lenard and James Wagner
 
 <h6 id="research-session-4"></h6>
 ### Research Session 4 : Poster Lightning Talks (5 minutes)
 
-* **Efficient Streaming Analysis of High-Resolution Plasma Transport** Junmin Gu, Paul Lin, _Kesheng Wu_, Seung-Hoe Ku, C.S Chang, Robert Hager, Aaron Scheinberg and Jong Youl Choi
-* **Enhancing Observatories with Fog Computing** _Ammar Kazem_, Guillaume Pierre and Laurent Longuevergne
-* **Towards Optimizing Data Movement in the Computing Continuum Workflow** _Radita Liem_ and Shadi Ibrahim
+* **Efficient Streaming Analysis of High-Resolution Plasma Transport** Junmin Gu, Paul Lin, <ins>_Kesheng Wu_</ins>, Seung-Hoe Ku, C.S Chang, Robert Hager, Aaron Scheinberg and Jong Youl Choi
+* **Enhancing Observatories with Fog Computing** <ins>_Ammar Kazem_</ins>, Guillaume Pierre and Laurent Longuevergne
+* **Towards Optimizing Data Movement in the Computing Continuum Workflow** <ins>_Radita Liem_</ins> and Shadi Ibrahim
 * **On The Energy Footprint of Erasure Codes in Ceph** _Marc Tranzer_ and Shadi Ibrahim
-* **Quantifying the Performance of Erasure Codes in P2P Storage Systems** _Mohammad Rizk_, Shadi Ibrahim and Thomas Lambert
-* **Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption** _Claire Guichemerre_, Tristan Allard, Sofiane Azogagh, Sébastien Gambs, Marc-Olivier Killijian and Amr El Abbadi.
+* **Quantifying the Performance of Erasure Codes in P2P Storage Systems** <ins>_Mohammad Rizk_</ins>, Shadi Ibrahim and Thomas Lambert
+* **Privacy-Preserving Distributed Spectral Centrality Measures based on Fully Homomorphic Encryption** <ins>_Claire Guichemerre_</ins>, Tristan Allard, Sofiane Azogagh, Sébastien Gambs, Marc-Olivier Killijian and Amr El Abbadi.
 
 
 ## Day 3 (Friday, July 12)
@@ -114,25 +114,25 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 <h6 id="research-session-5"></h6>
 ### Research Session 5 : Applied computing 
 
-* **How do users design scientific workflows? The Case of Snakemake and Nextflow** Sebastian Pohl, _Nourhan Elfaramawy_, Artur Miling, Kedi Cao, Birte Kehr and Matthias Weidlich
-* **Why Do Scientific Workflows Still Break?** Nahan Maligeay, Noémie Bossut and _Khalid Belhajjame_ (short) 
-* **WebAssembly serverless join: A Study of its Application** _Chanattan Sok_, Laurent D’Orazio, Reyyan Tekin and Dimitri Tombroff (short)
-* **VG-Prefetcher Cache: Towards Edge-Based Time Series Data Management Using Visibility Graph Prefetching** Akram Bensalem, Laurent D’Orazio, _Julien Lallet_ and Andrea Enrici (short)
-* **Performance-cost trade-offs in service orchestration for edge computing** _Daniel Balouek_ (demo)
+* **How do users design scientific workflows? The Case of Snakemake and Nextflow** Sebastian Pohl, <ins>_Nourhan Elfaramawy_</ins>, Artur Miling, Kedi Cao, Birte Kehr and Matthias Weidlich
+* **Why Do Scientific Workflows Still Break?** Nahan Maligeay, Noémie Bossut and <ins>_Khalid Belhajjame_</ins> (short) 
+* **WebAssembly serverless join: A Study of its Application** <ins>_Chanattan Sok_</ins>, Laurent D’Orazio, Reyyan Tekin and Dimitri Tombroff (short)
+* **VG-Prefetcher Cache: Towards Edge-Based Time Series Data Management Using Visibility Graph Prefetching** Akram Bensalem, Laurent D’Orazio, <ins>_Julien Lallet_</ins> and Andrea Enrici (short)
+* **Performance-cost trade-offs in service orchestration for edge computing** <ins>_Daniel Balouek_</ins> (demo)
 
 <h6 id="research-session-6"></h6>
 ### Research Session 6 : Indexing and Querying 2
 
-* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** Alexander Rasin, _James Herbick_, Ben Lenard, Nick Scope and James Wagner (short)
-* **A Model and Query Language for Multi-modal Hybrid Query** _Chuan Hu_, Zihao Zhao, Along Mao and Zhihong Shen (short)
+* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** Alexander Rasin, <ins>_James Herbick_</ins>, Ben Lenard, Nick Scope and James Wagner (short)
+* **A Model and Query Language for Multi-modal Hybrid Query** <ins>_Chuan Hu_</ins>, Zihao Zhao, Along Mao and Zhihong Shen (short)
 
 <h6 id="research-session-7"></h6>
 ### Research Session 7 : Graph Data & Mining
 
-* **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** _Hasan Jamil_ and Joel Oduro-Afriyie (short)
-* **Towards a Temporal Graph Query Language for Durable Patterns** _Daniel Betsche_, Klemens Böhm, Balduin Katzer, Karlsruhe University of Applied Sciences and Katrin Schulz (short)
-* **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** _Zitong Wang_, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin
-* **Scale Fairness on Spectral Clustering** _Zhijing Yang_, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long
+* **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** <ins>_Hasan Jamil_</ins> and Joel Oduro-Afriyie (short)
+* **Towards a Temporal Graph Query Language for Durable Patterns** <ins>_Daniel Betsche_</ins>, Klemens Böhm, Balduin Katzer, Karlsruhe University of Applied Sciences and Katrin Schulz (short)
+* **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** <ins>_Zitong Wang_</ins>, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin
+* **Scale Fairness on Spectral Clustering** <ins>_Zhijing Yang_</ins>, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long
 
 
 
