@@ -23,6 +23,16 @@ She was the Program Chair of ACM Sigmod 2022 and she is currently an Associate E
 
 ## Keynote 2: Pierre Hellier ([bio](https://people.irisa.fr/Pierre.Hellier/))
 
+**TITLE:** Learned image and video compression
+
+**ABSTRACT:** Image and video compression continues to be a relevant scientific and technological concern with the continuous growth of video streaming.Recent statistics indicate that streaming accounts for more than 75% of the internet traffic. 
+In this talk, I will first briefly recall the principles of classical compression methods, their current limits and the standardization landscape. Then, I will discuss how machine learning brings new methods and capabilities for compression. In particular, ML offers possibilities for semantic compression, as well as new paradigms based on implicit representations.
+
+<img src="./assets/images/keynote4.png" align="right" border="1" width="160">
+
+**BIO:** After an engineering diploma in aeronautics (Ensae-SupAero) and a MsC in applied mathematics obtained at Toulouse university, Dr. Hellier received his PhD on medical image registration in 2000. He moved as a postdoctoral researcher to Utrecht university. He was appointed INRIA researcher in 2001. From 2001 to 2011, He focused on computer vision methods for medical image registration, image-guided neurosurgery and transcranial magnetic stimulation. He was a visiting professor at McGill university, Montreal in 2006. In 2009, Dr. Hellier co-founded a startup to industrialize a neuronavigation system for transcranial magnetic stimulation, and served as scientific council. So far, the neuronavigation system has been used in 30+ hospitals on 10k+ patients.
+In 2011, he moved to Technicolor research, working on UGC content synchronization, enhancement, and professional post-production: film grain, color grading, color restoration, unsharp masking and mosaicing. He pursued at InterDigital research in 2019, focusing on machine learning for image and video compression, as well as deep learning for digital human modeling.
+Since 2024, He is with the university of Rennes, junior professor chair.
 
 ## Keynote 3: John Wu ([bio](https://profiles.lbl.gov/20161-john-wu/))
 
