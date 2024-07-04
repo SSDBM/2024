@@ -5,13 +5,15 @@ layout: default
 
 # Keynotes
 
-## Keynote 1: Angela Bonifati** ([bio](https://perso.liris.cnrs.fr/angela.bonifati/index.shtml))
+## Keynote 1: Angela Bonifati ([bio](https://perso.liris.cnrs.fr/angela.bonifati/index.shtml))
 
 **TITLE:** Managing Constraints and Transformations in Property Graphs.
 
 **ABSTRACT:** Property graphs are widely known as an expressive data model for representing interconnected multi-labeled data enhanced with properties as key/value pairs. They are used in a wide range of domains, such as social and transportation networks, biological networks, finance, cybersecurity, logistics and planning, to name a few. Property graphs are the building blocks of future graph ecosystems, in which OLTP and OLAP processes are intertwined with complex advanced processes, such as learning, scientific computing and business intelligence. 
 While property graphs are currently used in a variety of graph databases, a rather fragmented landscape emerges in terms of the supported query and schema languages. In particular, the coverage of schema and constraints is limited if not completely lacking in these systems. In this talk, I will present recent advances in terms of schemas and constraints for property graphs, as part of our work within the LDBC community groups. I will also focus on property graph transformations leveraging graph pattern calculus abstractions and leading to a declarative framework having practical utility and efficiency. 
 Finally, I will pinpoint future directions of research in this new exciting area of data management. 
+
+<img src="./assets/images/keynote1.png" align="right" border="1" width="160">
 
 **BIO:** Angela Bonifati is a Distinguished Professor of Computer Science at Lyon 1 University and at the CNRS Liris
 research lab, where she leads the Database Group. She is also an Adjunct Professor at the University of
@@ -20,6 +22,8 @@ Her current research interests are on several aspects of data management, includ
 She was the Program Chair of ACM Sigmod 2022 and she is currently an Associate Editor for the Proceedings of VLDB and for several other journals, including the VLDB Journal, IEEE TKDE and ACM TODS. She is the President of the EDBT Executive Board (2020-2025), a member of the PVLDB Board of Trustees (2024-2029) and a member of the IEEE TCDE executive committee (2024-2029).
 
 ## Keynote 2: Pierre Hellier ([bio](https://people.irisa.fr/Pierre.Hellier/))
+
+<img src="./assets/images/keynote2.png" align="right" border="1" width="160">
 
 ## Keynote 3: John Wu ([bio](https://profiles.lbl.gov/20161-john-wu/))
 
@@ -37,6 +41,8 @@ highlighting practical examples and emerging technologies.  By connecting
 experimental facilities with HPC through efficient data services, we can
 unlock the full potential of scientific data, accelerating the pace of
 discovery and ushering in a new era of data-driven science.
+
+<img src="./assets/images/keynote3.png" align="right" border="1" width="160">
 
 **BIO:** Dr. Kesheng (John) Wu is a visionary leader in advanced technology research
 and development at Scientific Networking Division of Lawrence Berkeley
@@ -56,6 +62,8 @@ of networking technology.
 **TITLE:** Data Science and Innovation.
 
 **ABSTRACT:** Data science and innovation have become overloaded terms, leading to some confusion. To be successful, the innovation process involves not only inventions (e.g., new methods) but also context, e.g., user behavior, and timing, e.g., market readiness. In this talk, I discuss the impact of data science on innovation, using selected success stories (some of which I was involved in). I also give hints to promote innovation within companies, in particular, using open innovation. Finally, I describe some innovations in the context of the Inria-Brasil partnership.
+
+<img src="./assets/images/keynote4.png" align="right" border="1" width="160">
 
 **BIO:** Patrick Valduriez is an emeritus director of research at Inria, France, the scientific director of the Inria-Brasil international lab. and the Chief Scientist Officer of the LeanXcale company. He is also a collaborator in the Data Extreme Lab. (DEXL) at LNCC, Rio de Janeiro, Brazil.
 He spent most of his career at Inria as director of research, where he created and directed three teams (Rodin, Atlas and Zenith). He has also been a professor of computer science at University Pierre et Marie Curie (UPMC), now Sorbonne University, in Paris (2000-2002), a researcher at Microelectronics and Computer Technology Corp. in Austin, Texas (1985-1989) and a researcher at Inria (1982-1984).
