@@ -23,7 +23,6 @@ She was the Program Chair of ACM Sigmod 2022 and she is currently an Associate E
 
 ## Keynote 2: Pierre Hellier ([bio](https://people.irisa.fr/Pierre.Hellier/))
 
-<img src="./assets/images/keynote2.png" align="right" border="1" width="160">
 
 ## Keynote 3: John Wu ([bio](https://profiles.lbl.gov/20161-john-wu/))
 
