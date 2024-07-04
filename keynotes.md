@@ -23,6 +23,34 @@ She was the Program Chair of ACM Sigmod 2022 and she is currently an Associate E
 
 ## Keynote 3: John Wu ([bio](https://profiles.lbl.gov/20161-john-wu/))
 
+**TITLE:** Bridging the Data Divide: Distributed Workflow Management for the Next Generation of Scientific Research.
+
+**ABSTRACT:** Modern scientific experiments and simulations generate data at an
+unprecedented scale, demanding powerful, yet often geographically distant,
+high-performance computing (HPC) resources for analysis.  This fundamental
+challenge necessitates innovative data management and workflow systems that
+can seamlessly bridge the gap between distributed instruments and computing
+power.  This presentation explores the pressing need for integrated
+data-centric ecosystems in science.  We examine key application drivers and
+survey cutting-edge scientific data management and workflow systems,
+highlighting practical examples and emerging technologies.  By connecting
+experimental facilities with HPC through efficient data services, we can
+unlock the full potential of scientific data, accelerating the pace of
+discovery and ushering in a new era of data-driven science.
+
+**BIO:** Dr. Kesheng (John) Wu is a visionary leader in advanced technology research
+and development at Scientific Networking Division of Lawrence Berkeley
+National Laboratory, leading a team at the forefront of scientific data
+management and workflow management.  His work focuses on accelerating
+research breakthroughs by seamlessly integrating distributed scientific
+facilities with high-performance computing resources.  Dr. Wu's team
+develops innovative solutions for data-intensive scientific workflows,
+including in-network storage and computation, optimized network operations,
+and cutting-edge testbeds involving both conventional optical networking and
+quantum communication capabilities.  These testbeds provide a crucial
+platform for the broader research community to explore and shape the future
+of networking technology.
+
 ## Keynote 4: Patrick Valduriez ([bio](https://www-sop.inria.fr/members/Patrick.Valduriez/))
 
 **TITLE:** Data Science and Innovation.
