@@ -63,7 +63,7 @@ The lightening talk session will include presentations of posters.
 | 08:55 - 09:05 | Announcement of SSDBM 2025 
 | 09:05 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu  <br> Session Chair: Suren Byna                                                                         |
 | 10:00 - 10:30 | Break                                                                                                           |
-| 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing <br> Session Chair: |
+| 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing <br> Session Chair: Cédric Tedeschi |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
 | 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez          <br> Session Chair:        |
 | 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Indexing and Querying 2      <br> Session Chair:            |
@@ -130,7 +130,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 7 : Graph Data & Mining
 
 * **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** <ins>_Hasan Jamil_</ins> and Joel Oduro-Afriyie (short)
-* **Towards a Temporal Graph Query Language for Durable Patterns** <ins>_Daniel Betsche_</ins>, Klemens Böhm, Balduin Katzer, Karlsruhe University of Applied Sciences and Katrin Schulz (short)
+* **Towards a Temporal Graph Query Language for Durable Patterns** <ins>_Daniel Betsche_</ins>, Klemens Böhm, Balduin Katzer,  and Katrin Schulz (short)
 * **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** <ins>_Zitong Wang_</ins>, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin
 * **Scale Fairness on Spectral Clustering** <ins>_Zhijing Yang_</ins>, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long
 
