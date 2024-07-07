@@ -68,7 +68,7 @@ The lightening talk session will include presentations of posters.
 | 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez          <br> Session Chair:        |
 | 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Indexing and Querying 2      <br> Session Chair:            |
 | 15:00 - 15:30 | Break                                                                                                           |
-| 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph Data & Mining <br> Session Chair:  |
+| 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph Data & Mining <br> Session Chair: Daniel Balouek |
 | 17:00 - 17:10 | **Conference Close** |
 
 # Research Sessions
