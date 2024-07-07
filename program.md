@@ -37,7 +37,7 @@ The lightening talk session will include presentations of posters.
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
 | 13:30 - 15:00 | **[Research Session 2:](#research-session-2)** Indexing and Querying 1  <br> Session Chair: John Wu                 |
 | 15:00 - 15:30 | Break                                                                                                           |
-| 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy |
+| 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy <br> Session Chair: Jay Lofstead |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)** Poster Lightning Talks <br> Session Chair: Jay Lofstead|
 | 17:00 - 18:30 | Depart for Reception |
 | 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
@@ -65,7 +65,7 @@ The lightening talk session will include presentations of posters.
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing <br> Session Chair: Cédric Tedeschi |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
-| 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez          <br> Session Chair:        |
+| 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez          <br> Session Chair: Jay Lofstead       |
 | 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Indexing and Querying 2      <br> Session Chair: Radita Liem           |
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph Data & Mining <br> Session Chair: Daniel Balouek |
