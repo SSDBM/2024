@@ -39,7 +39,7 @@ The lightening talk session will include presentations of posters.
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy <br> Session Chair: Jay Lofstead |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)** Poster Lightning Talks <br> Session Chair: Jay Lofstead|
-| 17:00 - 18:30 | Depart for Reception |
+| 17:00 - 18:30 | Depart for Reception - Meet in the conference hall|
 | 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
 
 
@@ -52,8 +52,8 @@ The lightening talk session will include presentations of posters.
 | 10:00 - 10:30 | Break                                                                                            |
 | 10:30 - 12:00 | **Poster Session : accepted short and demo papers, and posters**  |
 | 12:00 - 13:30 | Lunch Break                                                                                      |
-| 14:00 - 19:45 | **Excursion to Mont Saint Michel (included)**                                                                                |
-| 20:00 - 23:00 | Conference Dinner                                                                               |
+| 14:00 - 19:45 | **Excursion to Mont Saint Michel (included)** Meet in the conference hall                                                                                |
+| 20:00 - 23:00 | Conference Dinner at the **La Closerie**, Address: 34 Pl. des Lices, Rennes                                                                             |
 
 ### Day 3 (Friday, July 12) Overview
 
