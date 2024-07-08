@@ -35,7 +35,7 @@ The lightening talk session will include presentations of posters.
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 1:](#research-session-1)** Machine learning and data Science <br> Session Chair: Tassadit Bouadi |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
-| 13:30 - 15:00 | **[Research Session 2:](#research-session-2)** Indexing and Querying 1  <br> Session Chair: John Wu                 |
+| 13:30 - 15:00 | **[Research Session 2:](#research-session-2)** Indexing and Querying   <br> Session Chair: John Wu                 |
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy <br> Session Chair: Jay Lofstead |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)** Poster Lightning Talks <br> Session Chair: Jay Lofstead|
@@ -85,7 +85,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , <ins>_Suren Byna_</ins>, Jean Luca Bez and Ravi Madduri
 
 <h6 id="research-session-2"></h6>
-### Research Session 2 : Indexing and Querying 1
+### Research Session 2 : Indexing and Querying 
 
 * **Model Reuse in Learned Spatial Indexes** <ins>_Mayur Patil_</ins> and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  <ins>_Fatemeh Farokhmanesh_</ins>, Christoph Neuhauser  and Rüdiger Westermann.
