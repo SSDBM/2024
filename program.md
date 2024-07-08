@@ -59,9 +59,8 @@ The lightening talk session will include presentations of posters.
 
 | Time           | Events                                                                                                          |
 |----------------|-----------------------------------------------------------------------------------------------------------------|
-| 08:30 - 08:55 | Registration with coffee                                                  |
-| 08:55 - 09:05 | Announcement of SSDBM 2025 
-| 09:05 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu  <br> Session Chair: Suren Byna                                                                         |
+| 08:30 - 09:00 | Registration with coffee                                                  |
+| 09:00 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu  <br> Session Chair: Suren Byna                                                                         |
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing <br> Session Chair: Cédric Tedeschi |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
@@ -69,7 +68,7 @@ The lightening talk session will include presentations of posters.
 | 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Graph & Data Mining  1   <br> Session Chair: Radita Liem           |
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph & Data Mining 2 (Hybrid)  <br> Session Chair: Daniel Balouek |
-| 17:00 | **Conference Close (Award Ceremony) and Reception** (Crêpes and Cider)|
+| 17:00 | **Conference Close (Award Ceremony + Announcement of SSDBM 2025) and Reception** (Crêpes and Cider)|
 
 # Research Sessions
 
