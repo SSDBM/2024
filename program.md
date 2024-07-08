@@ -69,7 +69,7 @@ The lightening talk session will include presentations of posters.
 | 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Graph & Data Mining  1   <br> Session Chair: Radita Liem           |
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph & Data Mining 2 (Hybrid)  <br> Session Chair: Daniel Balouek |
-| 17:00 - 17:10 | **Conference Close** |
+| 17:00 | **Conference Close (Award Ceremony) and Reception** (Crêpes and Cider)|
 
 # Research Sessions
 
