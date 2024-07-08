@@ -65,10 +65,10 @@ The lightening talk session will include presentations of posters.
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing <br> Session Chair: Cédric Tedeschi |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
-| 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez          <br> Session Chair: Jay Lofstead       |
-| 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Indexing and Querying 2      <br> Session Chair: Radita Liem           |
+| 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez    **[remote]**      <br> Session Chair: Jay Lofstead       |
+| 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Graph & Data Mining  1   <br> Session Chair: Radita Liem           |
 | 15:00 - 15:30 | Break                                                                                                           |
-| 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph Data & Mining <br> Session Chair: Daniel Balouek |
+| 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph & Data Mining 2 (Hybrid)  <br> Session Chair: Daniel Balouek |
 | 17:00 - 17:10 | **Conference Close** |
 
 # Research Sessions
@@ -89,8 +89,8 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 * **Model Reuse in Learned Spatial Indexes** <ins>_Mayur Patil_</ins> and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  <ins>_Fatemeh Farokhmanesh_</ins>, Christoph Neuhauser  and Rüdiger Westermann.
-* **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** <ins>_Chuan Hu_</ins>, Jiawei Cai, Zihao Zhao and Zhihong Shen
-  
+* **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** <ins>_Hasan Jamil_</ins> and Joel Oduro-Afriyie (short)
+* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** Alexander Rasin, <ins>_James Herbick_</ins>, Ben Lenard, Nick Scope and James Wagner (short)  
 
 <h6 id="research-session-3"></h6>
 ### Research Session 3 : Trust & Privacy
@@ -121,19 +121,17 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **Performance-cost trade-offs in service orchestration for edge computing** <ins>_Daniel Balouek_</ins> (demo)
 
 <h6 id="research-session-6"></h6>
-### Research Session 6 : Indexing and Querying 2
+### Research Session 6 : Graph & Data Mining  1 
 
-* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** Alexander Rasin, <ins>_James Herbick_</ins>, Ben Lenard, Nick Scope and James Wagner (short)
-* **A Model and Query Language for Multi-modal Hybrid Query** <ins>_Chuan Hu_</ins>, Zihao Zhao, Along Mao and Zhihong Shen (short)
+* **Towards a Temporal Graph Query Language for Durable Patterns** <ins>_Daniel Betsche_</ins>, Klemens Böhm, Balduin Katzer,  and Katrin Schulz (short)
+* **A Model and Query Language for Multi-modal Hybrid Query** <ins>_Chuan Hu_</ins>, Zihao Zhao, Along Mao and Zhihong Shen (short) **[remote]**
 
 <h6 id="research-session-7"></h6>
-### Research Session 7 : Graph Data & Mining
+### Research Session 7 : Graph & Data Mining 2 (Hybrid)
 
-* **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** <ins>_Hasan Jamil_</ins> and Joel Oduro-Afriyie (short)
-* **Towards a Temporal Graph Query Language for Durable Patterns** <ins>_Daniel Betsche_</ins>, Klemens Böhm, Balduin Katzer,  and Katrin Schulz (short)
-* **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** <ins>_Zitong Wang_</ins>, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin
-* **Scale Fairness on Spectral Clustering** <ins>_Zhijing Yang_</ins>, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long
-
+* **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** <ins>_Chuan Hu_</ins>, Jiawei Cai, Zihao Zhao and Zhihong Shen **[remote]**
+* **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** <ins>_Zitong Wang_</ins>, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin **[remote]**
+* **Scale Fairness on Spectral Clustering** <ins>_Zhijing Yang_</ins>, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long **[remote]**
 
 
 The schedule of paper presentations may be subject to last minute changes, so please [contact us](mailto:ssdbm2024@easychair.org) if you have time-sensitive questions about the schedule.
