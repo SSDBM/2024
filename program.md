@@ -89,7 +89,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **Model Reuse in Learned Spatial Indexes** <ins>_Mayur Patil_</ins> and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  <ins>_Fatemeh Farokhmanesh_</ins>, Christoph Neuhauser  and Rüdiger Westermann.
 * **Knowledge Graph Enhancement for Improved Natural Language Health Question Answering using Large Language Models** <ins>_Hasan Jamil_</ins> and Joel Oduro-Afriyie (short)
-* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** Alexander Rasin, <ins>_James Herbick_</ins>, Ben Lenard, Nick Scope and James Wagner (short)  
+* **On Vulnerability of Access Control Restrictions to Timing Attacks in a Database Management System** <ins>_Alexander Rasin_</ins>, James Herbick, Ben Lenard, Nick Scope and James Wagner (short)  
 
 <h6 id="research-session-3"></h6>
 ### Research Session 3 : Trust & Privacy
@@ -116,7 +116,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **How do users design scientific workflows? The Case of Snakemake and Nextflow** Sebastian Pohl, <ins>_Nourhan Elfaramawy_</ins>, Artur Miling, Kedi Cao, Birte Kehr and Matthias Weidlich
 * **Why Do Scientific Workflows Still Break?** Nahan Maligeay, Noémie Bossut and <ins>_Khalid Belhajjame_</ins> (short) 
 * **WebAssembly serverless join: A Study of its Application** <ins>_Chanattan Sok_</ins>, Laurent D’Orazio, Reyyan Tekin and Dimitri Tombroff (short)
-* **VG-Prefetcher Cache: Towards Edge-Based Time Series Data Management Using Visibility Graph Prefetching** Akram Bensalem, Laurent D’Orazio, <ins>_Julien Lallet_</ins> and Andrea Enrici (short)
+* **VG-Prefetcher Cache: Towards Edge-Based Time Series Data Management Using Visibility Graph Prefetching** <ins>_Akram Bensalem_</ins>, Laurent D’Orazio, Julien Lallet and Andrea Enrici (short)
 * **Performance-cost trade-offs in service orchestration for edge computing** <ins>_Daniel Balouek_</ins> (demo)
 
 <h6 id="research-session-6"></h6>
