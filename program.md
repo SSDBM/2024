@@ -79,12 +79,15 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 <h6 id="research-session-1"></h6>
 ### Research Session 1 : Machine learning and data Science 
 
+Session Chair: Jay Lofstead <br>
 * **Similarity Measures Recommendation for Mixed Data Clustering** <ins>_Abdoulaye Diop_</ins>, Nabil El Malki, Max Chevalier, André Péninou, Roman Jimenez Geoffrey and Olivier Teste
 * **CURD: Context-aware Relevance and Urgency Determination** Ademola Adesokan and <ins>_Sanjay Madria_</ins>
 * **AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI** Kaveen Hiniduma , <ins>_Suren Byna_</ins>, Jean Luca Bez and Ravi Madduri
 
 <h6 id="research-session-2"></h6>
 ### Research Session 2 : Indexing and Querying 
+
+Session Chair: John Wu <br>
 
 * **Model Reuse in Learned Spatial Indexes** <ins>_Mayur Patil_</ins> and Chinya V Ravishankar
 * **A Compact and Efficient Neural Data Structure for Mutual Information Estimation in Large Timeseries**  <ins>_Fatemeh Farokhmanesh_</ins>, Christoph Neuhauser  and Rüdiger Westermann.
@@ -93,6 +96,8 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 <h6 id="research-session-3"></h6>
 ### Research Session 3 : Trust & Privacy
+
+Session Chair: Tristan Allard <br>
 
 * **The Intersection of Compliance, Databases, and IT Operations** <ins>_Ben Lenard_</ins>, Alexander Rasin, Nick Scope and Thamer Al Johani
 * **Statistical Privacy and Consent in Data Aggregation**  Nick Scope, <ins>_Alexander Rasin_</ins>, Ben Lenard and James Wagner
