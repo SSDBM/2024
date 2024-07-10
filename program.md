@@ -118,6 +118,7 @@ Session Chair: Jay Lofstead <br>
 
 <h6 id="research-session-5"></h6>
 ### Research Session 5 : Applied computing 
+Session Chair: Cédric Tedeschi <br>
 
 * **How do users design scientific workflows? The Case of Snakemake and Nextflow** Sebastian Pohl, <ins>_Nourhan Elfaramawy_</ins>, Artur Miling, Kedi Cao, Birte Kehr and Matthias Weidlich
 * **Why Do Scientific Workflows Still Break?** Nahan Maligeay, Noémie Bossut and <ins>_Khalid Belhajjame_</ins> (short) 
@@ -128,11 +129,15 @@ Session Chair: Jay Lofstead <br>
 <h6 id="research-session-6"></h6>
 ### Research Session 6 : Graph & Data Mining  1 
 
+Session Chair: Radita Liem <br>
+
 * **Towards a Temporal Graph Query Language for Durable Patterns** <ins>_Daniel Betsche_</ins>, Klemens Böhm, Balduin Katzer,  and Katrin Schulz (short)
 * **A Model and Query Language for Multi-modal Hybrid Query** <ins>_Chuan Hu_</ins>, Zihao Zhao, Along Mao and Zhihong Shen (short) **[remote]**
 
 <h6 id="research-session-7"></h6>
 ### Research Session 7 : Graph & Data Mining 2 (Hybrid)
+
+Session Chair: Daniel Balouek <br>
 
 * **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** <ins>_Chuan Hu_</ins>, Jiawei Cai, Zihao Zhao and Zhihong Shen **[remote]**
 * **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** <ins>_Zitong Wang_</ins>, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin **[remote]**
