@@ -104,6 +104,7 @@ Session Chair: Tristan Allard <br>
 
 <h6 id="research-session-4"></h6>
 ### Research Session 4 : Poster Lightning Talks (5 minutes)
+Session Chair: Jay Lofstead <br>
 
 * **Efficient Streaming Analysis of High-Resolution Plasma Transport** Junmin Gu, Paul Lin, <ins>_Kesheng Wu_</ins>, Seung-Hoe Ku, C.S Chang, Robert Hager, Aaron Scheinberg and Jong Youl Choi
 * **Enhancing Observatories with Fog Computing** <ins>_Ammar Kazem_</ins>, Guillaume Pierre and Laurent Longuevergne
