@@ -33,11 +33,11 @@ The lightening talk session will include presentations of posters.
 | 08:55 - 09:05 | SSDBM Opening by Shadi Ibrahim                                                               |
 | 09:05 - 10:00 | [Keynote 1](./keynotes.md#keynote-1) by Angela Bonifati  <br> Session Chair: Tristan Allard                                                                            |
 | 10:00 - 10:30 | Break                                                                                                           |
-| 10:30 - 12:00 | **[Research Session 1:](#research-session-1)** Machine learning and data Science <br> Session Chair: Tassadit Bouadi |
+| 10:30 - 12:00 | **[Research Session 1:](#research-session-1)** Machine learning and data Science <br> Session Chair: Jay Lofstead |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
 | 13:30 - 15:00 | **[Research Session 2:](#research-session-2)** Indexing and Querying   <br> Session Chair: John Wu                 |
 | 15:00 - 15:30 | Break                                                                                                           |
-| 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy <br> Session Chair: Jay Lofstead |
+| 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy <br> Session Chair: Tristan Allard |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)** Poster Lightning Talks <br> Session Chair: Jay Lofstead|
 | 17:00 - 18:30 | Depart for Reception - Meet in the conference hall|
 | 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
