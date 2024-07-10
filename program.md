@@ -40,7 +40,7 @@ The lightening talk session will include presentations of posters.
 | 15:30 - 16:30 | **[Research Session 3:](#research-session-3)** Trust & Privacy <br> Session Chair: Tristan Allard |
 | 16:30 - 17:00 | **[Research Session 4: ](#research-session-4)** Poster Lightning Talks <br> Session Chair: Jay Lofstead|
 | 17:00 - 18:30 | Depart for Reception - Meet in the conference hall|
-| 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**                  |
+| 18:30 - 20:00 | **Conference Reception at Rennes City Hall "Hotel de Ville"**, Place de la Mairie, Rennes                |
 
 
 ### Day 2 (Thursday, July 11) Overview
