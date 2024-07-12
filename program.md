@@ -63,12 +63,13 @@ The lightening talk session will include presentations of posters.
 | 09:00 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by John Wu  <br> Session Chair: Suren Byna                                                                         |
 | 10:00 - 10:30 | Break                                                                                                           |
 | 10:30 - 12:00 | **[Research Session 5:](#research-session-5)** Applied computing <br> Session Chair: Cédric Tedeschi |
-| 12:00 - 13:30 | Lunch Break                                                                                                     |
+| 12:00 - 12:10 | **Announcement of SSDBM 2025**                                                                                                     |
+| 12:10 - 13:30 | Lunch Break                                                                                                     |
 | 13:30 - 14:30 |  [Keynote 4](./keynotes.md#keynote-4) by Patrick Valduriez    **[remote]**      <br> Session Chair: Jay Lofstead       |
 | 14:30 - 15:00 | **[Research Session 6:](#research-session-6)**  Graph & Data Mining  1   <br> Session Chair: Radita Liem           |
 | 15:00 - 15:30 | Break                                                                                                           |
 | 15:30 - 17:00 | **[Research Session 7:](#research-session-7)** Graph & Data Mining 2 (Hybrid)  <br> Session Chair: Daniel Balouek |
-| 17:00 | **Conference Close (Announcement of SSDBM 2025) and Reception** (Crêpes and Cider)|
+| 17:00 | **Conference Close  and Reception** (Crêpes and Cider)|
 
 # Research Sessions
 
@@ -139,9 +140,9 @@ Session Chair: Radita Liem <br>
 
 Session Chair: Daniel Balouek <br>
 
+* **Scale Fairness on Spectral Clustering** <ins>_Zhijing Yang_</ins>, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long **[remote]**
 * **BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing** <ins>_Chuan Hu_</ins>, Jiawei Cai, Zihao Zhao and Zhihong Shen **[remote]**
 * **Imbalanced Graph-Level Anomaly Detection via Counterfactual Augmentation and Feature Learning** <ins>_Zitong Wang_</ins>, Xuexiong Luo, Enfeng Song, Qiuqing Bai and Fu Lin **[remote]**
-* **Scale Fairness on Spectral Clustering** <ins>_Zhijing Yang_</ins>, Hui Zhang, Chunming Yang, Bo Li, Xujian Zhao and Yin Long **[remote]**
 
 
 The schedule of paper presentations may be subject to last minute changes, so please [contact us](mailto:ssdbm2024@easychair.org) if you have time-sensitive questions about the schedule.
